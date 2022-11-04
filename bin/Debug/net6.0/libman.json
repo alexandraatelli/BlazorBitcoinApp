@@ -1,0 +1,15 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "plotly.js@2.16.1",
+      "destination": "wwwroot/sample-data/plotly.js/",
+      "files": [
+        "plotly.min.js",
+        "plotly-basic.min.js",
+        "plotly-basic.js"
+      ]
+    }
+  ]
+}
